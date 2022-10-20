@@ -1,26 +1,19 @@
 # PopuNation
 
-Foobar is a Python library for dealing with word pluralization.
+Site to analyze the population growth of countries in recent years. 
+## API
+The API used was: https://datausa.io/api/data?drilldowns=Nation&measures=Population
 
 ## Usage
 
-```python
-import foobar
+<img src="https://github.com/deviniciuss/PopuNation/blob/main/images/presentation.gif" alt="drawing" width="50%"/>
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Suport
+My contacts here: 
+[Linkedin](https://www.linkedin.com/in/deviniciuss/)
