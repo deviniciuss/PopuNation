@@ -7,6 +7,10 @@ The API used was: https://datausa.io/api/data?drilldowns=Nation&measures=Populat
 ## Usage
 
 <img src="https://github.com/deviniciuss/PopuNation/blob/main/images/presentation.gif" alt="drawing" width="50%"/>
+Use this link for visualization of the project https://popunation.deviniciuss.repl.co/ <br />
+Obs: Developed for desktop only, is not responsive.
+
+
 
 
 ## Contributing
